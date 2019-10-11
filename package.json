@@ -1,6 +1,6 @@
 {
   "name": "callie-linux",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An npx Business Card for CallieLinux",
   "author": {
     "name": "Callie R Toothman",
@@ -9,7 +9,7 @@
   "bin": {
     "callie-linux": "bin/card.js"
   },
-  "homepage": "https://www.callielinux.com",
+  "homepage": "callielinux.com",
   "scripts": {
     "format": "prettier --write **/*.{js,json} && standard --fix",
     "lint": "standard"
