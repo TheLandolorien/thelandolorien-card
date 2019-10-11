@@ -1,7 +1,7 @@
 {
   "name": "callie-linux",
-  "version": "1.0.0",
-  "description": "callie-linux Profile Card",
+  "version": "1.0.1",
+  "description": "An npx Business Card for CallieLinux",
   "author": {
     "name": "Callie R Toothman",
     "url": "https://www.callielinux.com"
@@ -9,10 +9,19 @@
   "bin": {
     "callie-linux": "bin/card.js"
   },
+  "homepage": "https://www.callielinux.com",
   "scripts": {
     "format": "prettier --write **/*.{js,json} && standard --fix",
     "lint": "standard"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CallieLinux/callie-linux-card.git"
+  },
+  "keywords": [
+    "CallieLinux",
+    "npx Business Card"
+  ],
   "license": "MIT",
   "dependencies": {
     "boxen": "^4.1.0",
