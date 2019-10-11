@@ -1,0 +1,26 @@
+{
+  "name": "callie-linux",
+  "version": "1.0.0",
+  "description": "callie-linux Profile Card",
+  "author": {
+    "name": "Callie R Toothman",
+    "url": "https://www.callielinux.com"
+  },
+  "bin": {
+    "callie-linux": "bin/card.js"
+  },
+  "scripts": {
+    "format": "prettier --write **/*.{js,json} && standard --fix",
+    "lint": "standard"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "prettier": "^1.12.1",
+    "jest": "^23.6.0"
+  }
+}
