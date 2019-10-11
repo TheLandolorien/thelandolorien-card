@@ -1,6 +1,6 @@
 {
   "name": "callie-linux",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An npx Business Card for CallieLinux",
   "author": {
     "name": "Callie R Toothman",
@@ -29,7 +29,6 @@
   },
   "devDependencies": {
     "standard": "^12.0.1",
-    "prettier": "^1.12.1",
-    "jest": "^23.6.0"
+    "prettier": "^1.12.1"
   }
 }
