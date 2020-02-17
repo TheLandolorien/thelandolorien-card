@@ -1,15 +1,11 @@
 {
   "main": {
-    "name": "Callie R Toothman",
-    "handle": "CallieLinux",
-    "work": "Senior Engineer @ nCino"
+    "name": "Lando Toothman",
+    "handle": "Millennial Falcon",
+    "work": "Use npx millennial-falcon instead"
   },
   "detail": {
-    "LinkedIn": "https://www.linkedin.com/in/callielinux",
-    "GitHub": "https://www.github.com/CallieLinux",
-    "Stack Overflow": "https://www.stackoverflow.com/story/callielinux",
-    "Web": "https://www.callielinux.com",
-    "npx": "npx callie-linux"
+    "npx": "Deprecated"
   },
   "boxOptions": {
     "padding": 1,
