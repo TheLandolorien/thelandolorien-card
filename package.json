@@ -7,7 +7,7 @@
     "url": "https://www.thelandocal.com"
   },
   "bin": {
-    "callie-linux": "bin/card.js"
+    "the-lando-cal": "bin/card.js"
   },
   "homepage": "thelandocal.com",
   "scripts": {
