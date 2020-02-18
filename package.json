@@ -1,25 +1,25 @@
 {
-  "name": "callie-linux",
-  "version": "1.0.6",
-  "description": "An npx Business Card for CallieLinux",
+  "name": "the-lando-cal-card",
+  "version": "2.0.0",
+  "description": "An npx Business Card for The Lando Cal",
   "author": {
-    "name": "Callie R Toothman",
-    "url": "https://www.callielinux.com"
+    "name": "Lando Toothman",
+    "url": "https://www.thelandocal.com"
   },
   "bin": {
     "callie-linux": "bin/card.js"
   },
-  "homepage": "callielinux.com",
+  "homepage": "thelandocal.com",
   "scripts": {
     "format": "prettier --write **/*.{js,json} && standard --fix",
     "lint": "standard"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CallieLinux/callie-linux-card.git"
+    "url": "https://github.com/TheLandoCal/the-lando-cal-card.git"
   },
   "keywords": [
-    "CallieLinux",
+    "TheLandoCal",
     "npx Business Card"
   ],
   "license": "MIT",

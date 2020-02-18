@@ -1,11 +1,15 @@
 {
   "main": {
     "name": "Lando Toothman",
-    "handle": "Millennial Falcon",
-    "work": "Use npx millennial-falcon instead"
+    "handle": "TheLandoCal",
+    "work": "Senior Software Engineer @ nCino"
   },
   "detail": {
-    "npx": "Deprecated"
+    "LinkedIn": "https://www.linkedin.com/in/TheLandoCal",
+    "GitHub": "https://www.github.com/TheLandoCal",
+    "Stack Overflow": "https://stackoverflow.com/story/TheLandoCal",
+    "Web": "https://www.thelandocal.com",
+    "npx": "npx the-lando-cal"
   },
   "boxOptions": {
     "padding": 1,
