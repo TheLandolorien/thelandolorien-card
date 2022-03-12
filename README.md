@@ -9,5 +9,5 @@ Built using [create-profile-card CLI](https://github.com/BoyWithSilverWings/crea
 ## Usage
 
 ```Shell
-npx the-lando-cal
+npx --yes the-lando-cal
 ```
