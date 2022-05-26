@@ -1,25 +1,25 @@
 {
-  "name": "the-lando-cal",
-  "version": "1.3.1",
-  "description": "An npx Business Card for The Lando Cal",
+  "name": "thelandolorien",
+  "version": "1.0.0",
+  "description": "An npx Business Card for TheLandolorien",
   "author": {
     "name": "Lando Toothman",
-    "url": "https://www.thelandocal.com"
+    "url": "https://www.thelandolorien.com"
   },
   "bin": {
     "the-lando-cal": "bin/card.js"
   },
-  "homepage": "thelandocal.com",
+  "homepage": "thelandolorien.com",
   "scripts": {
     "format": "prettier --write **/*.{js,json} && standard --fix",
     "lint": "standard"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheLandoCal/the-lando-cal-card.git"
+    "url": "https://github.com/TheLandolorien/the-landolorien.git"
   },
   "keywords": [
-    "TheLandoCal",
+    "TheLandolorien",
     "npx Business Card"
   ],
   "license": "MIT",
