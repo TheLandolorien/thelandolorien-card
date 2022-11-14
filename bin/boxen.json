@@ -1,0 +1,9 @@
+{
+  "padding": 1,
+  "margin": 0,
+  "borderStyle": "round",
+  "align": "center",
+  "float": "center",
+  "borderColor": "green",
+  "dimBorder": false
+}
