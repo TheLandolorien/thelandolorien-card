@@ -7,7 +7,7 @@
     "url": "https://www.thelandolorien.com"
   },
   "bin": {
-    "the-lando-cal": "bin/card.js"
+    "thelandolorien": "bin/card.js"
   },
   "homepage": "thelandolorien.com",
   "scripts": {
