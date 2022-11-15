@@ -13,3 +13,7 @@ Based on [create-profile-card CLI](https://github.com/agneym/create-profile-card
 ```Shell
 npx [--yes] thelandolorien
 ```
+
+## 🪪 License
+
+This project template is [MIT licensed](./LICENSE).
