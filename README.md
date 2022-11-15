@@ -1,13 +1,15 @@
 # TheLandolorien Card
 
-An npx Business Card for [TheLandolorien](https://github.com/TheLandolorien).
+<div align="center">
+    <img src="./docs/images/npx_thelandolorien.png" width="600">
+    <p>An npx Business Card for <a href="https://github.com/TheLandolorien">TheLandolorien</a></p>
 
-Built using [create-profile-card CLI](https://github.com/BoyWithSilverWings/create-profile-card) by [@BoyWithSilverWings](https://github.com/BoyWithSilverWings).
+Based on [create-profile-card CLI](https://github.com/agneym/create-profile-card) by [@agneym](https://github.com/agneym)
 
-<img src="./docs/images/npx_thelandolorien.png" width="600">
+</div>
 
-## Usage
+## ⌨️ Usage
 
 ```Shell
-npx thelandolorien
+npx [--yes] thelandolorien
 ```
