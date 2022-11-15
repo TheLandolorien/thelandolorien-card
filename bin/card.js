@@ -7,14 +7,15 @@ const boxOptions = require('./boxen.json');
 
 const social = Object.entries(contact.social)
   .map(([name, info]) => {
-    return `${chalk.bold(name)}: ${chalk.green(info)}`;
+    return `${name}: ${chalk.dim(info)}`;
   })
   .join('\n');
 
 const cardContents = `
-  ${contact.name} / ${chalk.bold(contact.handle)}
+  ${chalk.green(contact.name)} / ${chalk.green(contact.handle)}
   
-  ${chalk.bold('Work')}: ${chalk.bold(contact.role)}
+  ${contact.role}
+
   ${social}
 `;
 
