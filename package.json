@@ -9,6 +9,9 @@
   "bin": {
     "thelandolorien": "bin/card.js"
   },
+  "files": [
+    "bin/*"
+  ],
   "homepage": "thelandolorien.com",
   "scripts": {
     "format": "prettier --write **/*.{js,json} && standard --fix",
